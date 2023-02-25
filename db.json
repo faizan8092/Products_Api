@@ -1,0 +1,76 @@
+{
+    "Products": [
+      {
+        "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/242e93bd-ea77-4a72-99ae-ffcadcd15f3d/sportswear-t-shirt-zmMkxS.png",
+        "brand": "Nike",
+        "price": 1595,
+        "description": "The Nike Sportswear T-Shirt sets you up with soft cotton jersey and a classic logo on the chest.",
+        "gender": "male",
+        "id": 1
+      },
+      {
+        "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/801810e7-93af-412d-88c0-aee43f74f574/max90-all-over-print-basketball-t-shirt-Bg6CnP.png",
+        "brand": "Nike",
+        "price": 1099,
+        "description": "Men's All-over Print Basketball T-Shirt",
+        "gender": "male",
+        "id": 2
+      },
+      {
+        "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b8c0454f-4ae4-4524-aad8-5cd85d4a1927/sportswear-t-shirt-FBqJx6.png",
+        "brand": "Nike Sportswear",
+        "price": 599,
+        "description": "Men's All-over Print Basketball T-Shirt",
+        "gender": "male",
+        "id": 3
+      },
+      {
+        "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/40a493aa-2e93-4253-94a8-422bba483fdf/one-graphic-long-sleeve-top-7lSx7q.png",
+        "brand": "Nike Sportswear",
+        "price": 1699,
+        "description": "Women's Graphic Long-Sleeve Top",
+        "gender": "female",
+        "id": 4
+      },
+      {
+        "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/0b8509e6-dd04-43d6-9959-c8e7a1dd3c71/sportswear-cut-out-long-sleeve-top-Pr3Z2n.png",
+        "brand": "Nike Sportswear",
+        "price": 1799,
+        "description": "Women's Graphic Long-Sleeve Top",
+        "gender": "female",
+        "id": 5
+      },
+      {
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/577cbb35-7412-4915-a491-3c2e92697c96/forward-bomber-hooded-jacket-rpP6mn.png",
+        "brand": "Nike Sportswear",
+        "price": 1899,
+        "description": "Nike Forward Bomber",
+        "gender": "female",
+        "id": 6
+      },
+      {
+        "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/3839d4fe-222c-4394-ac40-a2282245eb98/sportswear-t-shirt-fh6K56.png",
+        "brand": "Nike",
+        "price": 1899,
+        "description": "Nike Sportswear",
+        "gender": "female",
+        "id": 7
+      },
+      {
+        "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/c8218e34-0941-4717-b343-0631bf0a0d16/dri-fit-multi-older-training-top-7RlKKh.png",
+        "brand": "Nike",
+        "price": 1586,
+        "description": "Nike Dri-FIT Multi+",
+        "gender": "kids",
+        "id": 8
+      },
+      {
+        "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/2e4b91e5-21e9-422b-bf7b-3914cb36f63d/dri-fit-trophy-older-graphic-short-sleeve-training-top-bBRDPV.png",
+        "brand": "Nike",
+        "price": 7800,
+        "description": "Nike Kids",
+        "gender": "kids",
+        "id": 9
+      }
+    ]
+  }
